@@ -1,4 +1,4 @@
-## Agent Identity Protocol (OAIP)
+## Agent Identity Protocol (AIP)
 
 <p align="center">
   <strong>A protocol for secure identity management, governance, and policy enforcement in the Internet of Agents (IoA) </strong>
