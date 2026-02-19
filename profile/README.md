@@ -1,10 +1,10 @@
 ## Agent Identity Protocol (OAIP)
 
 <p align="center">
-  <strong>A protocol for secure identity management and governance in the Internet of Agents (IoA) </strong>
+  <strong>A protocol for secure identity management, governance, and policy enforcement in the Internet of Agents (IoA) </strong>
 </p>
 
-AIP is a language-agnostic protocol for establishing cryptographic identities for AI agents, enabling authentication, authorization, and audit trails across heterogeneous systems. AIP provides a standardized way to separate agentic and human authentications.
+AIP is a language-agnostic protocol for establishing cryptographic identities for AI agents, enabling authentication, authorization through policy enforcement, and audit trails across heterogeneous systems. AIP provides a standardized way to separate agentic and human authentications.
 
 ### How It Works
 
