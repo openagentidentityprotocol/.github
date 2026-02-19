@@ -1,5 +1,8 @@
 ## Agent Identity Protocol (AIP)
 
+<h3 align="center">
+  The Zero-Trust Identity Layer for MCP & Autonomous Agents
+</h3>
 <p align="center">
   <strong>A protocol for secure identity management, governance, and policy enforcement in the Internet of Agents (IoA) </strong>
 </p>
