@@ -20,6 +20,7 @@ AIP operates at two layers that work together — identity and enforcement — c
 | Repository | Description |
 | --- | --- |
 | [agentidentityprotocol](https://github.com/openagentidentityprotocol/agentidentityprotocol) | Protocol specification, architecture, and formal docs |
+| [aip-playground](https://github.com/openagentidentityprotocol/aip-playground) | Example webapp with basic authentication to test out AIP in real world scenarios |
 | [aip-go](https://github.com/openagentidentityprotocol/aip-go) | Go reference implementation — MCP proxy with policy enforcement, DLP, and audit logging |
 | [aip-rust](https://github.com/openagentidentityprotocol/aip-rust) | Rust implementation *(in progress)* |
 | [docs](https://github.com/openagentidentityprotocol/docs) | Source for [agentidentityprotocol.io](https://agentidentityprotocol.io) |
